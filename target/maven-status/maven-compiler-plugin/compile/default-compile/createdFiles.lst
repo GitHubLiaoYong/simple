@@ -1,0 +1,15 @@
+test\model\SysUserRole.class
+tk\mybatis\simple\plugin\CameHumpInterceptor.class
+test\dao\SysUserRoleMapper.class
+tk\mybatis\generator\Generator.class
+test\model\Country.class
+test\dao\CountryMapper.class
+test\model\SysPrivilege.class
+test\dao\SysRolePrivilegeMapper.class
+test\dao\SysRoleMapper.class
+test\model\SysRolePrivilege.class
+test\dao\SysUserMapper.class
+test\dao\SysPrivilegeMapper.class
+test\model\SysRole.class
+tk\mybatis\simple\mapper\CountryMapper.class
+test\model\SysUser.class
